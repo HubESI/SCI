@@ -4,14 +4,14 @@
 
 ### Tracked object on our custom mobile app
 
-![alt text](https://github.com/HubESI/SCI/blob/main/images/tracked_object_on_mobile_app.jpg)
+![alt text](https://github.com/HubESI/SCI/blob/main/results/tracked-object-on-flutter-app.jpg)
 
 
 ### Tracked object on Google Maps app
 
-![alt text](https://github.com/HubESI/SCI/blob/main/images/tracked_object_on_google_maps_app.jpg)
+![alt text](https://github.com/HubESI/SCI/blob/main/results/tracked-object-on-google-maps-app.jpg)
 
 
 ### Navigation to the tracked object
 
-![alt text](https://github.com/HubESI/SCI/blob/main/images/directions_to_tracked_object.jpg)
+![alt text](https://github.com/HubESI/SCI/blob/main/results/navigation-to-tracked-object.jpg)
